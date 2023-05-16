@@ -1,0 +1,72 @@
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@import './customStyles';
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter', sans-serif;
+    scroll-behavior: smooth;
+    line-height: 1.5rem;
+
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+ul{
+    padding-left: 30px;
+}
+
+li {
+    padding-bottom: 0.4rem;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.check{
+	border: 2px solid red;
+}
+
+ img {
+     height: 100% !important;
+     width: 100% !important;
+ }
+
+.dynamic-x-padding {
+    padding-left: 5rem;
+    padding-right: 5rem;
+    @media (max-width: 1919px) {
+        padding-left: 5.5rem;
+        padding-right: 5.5rem;
+    }
+    @media (max-width: 767px) {
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+}
+
+.dynamic-y-padding {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    @media (max-width: 1919px) {
+        padding-top: 1.5rem;
+        padding-bottom: 1.5rem;
+    }
+}
+
+.check {
+    border: 2px solid red;
+}
+
+@media (max-width: 400px) {
+    .mantine-bslmsw {
+        padding-right: 0px !important;
+        padding-left: 0px !important;
+    }
+}

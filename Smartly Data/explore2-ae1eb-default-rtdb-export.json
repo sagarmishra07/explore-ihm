@@ -1,0 +1,674 @@
+{
+  "AboutUs": {
+    "CompanyProfile": {
+      "createdAt": "Mon Mar 27 2023 14:15:23 GMT+0545 (Nepal Time)",
+      "description": "<p>We, Explore Institute of Hotel Management (EIHM) is one of Nepal’s leading private government approved hospitality vocational Institute. It was established in 2010 A.D. with an aim of providing world class education in Hospitality Management. It is situated at Kalimati (near to T.B Hospital &amp; KEC College). We are an employment based Hospitality training college. It is affiliated with CTEVT-Nepal, &amp; Technical collaboration with Euroskills Technical &amp; Vocational Academy (ETVA) – Malaysia under the management of Lincoln Unversity- Malaysia. It offers Professional Diploma in Hotel Management &amp; Professional Diploma in Culinary Arts and short term courses such as Commercial cookery, Bar Tending, Barista Training, Basic cook, waiter/waitress, who holds a keen interest in hospitality and tourism and wish to make a career in hospitality &amp; tourism field. It provides best opportunities to do their internship in bests hotels in national and international levels. Explore institute of Hotel Management has an own restaurant &amp; hotel which is directly run by our students. The primary purpose of Our Institute is to promote the highest professional standards of vocational education in the field of hospitality management studies. It is run by highly experience hospitality team.</p><p><br></p><p>We are associated with reputed Hotels, Resorts, Airlines, Motels Restaurants, Bars, Travel agencies and other service industries throughout the nation and also tie up abroad; hence, the grooming of students at Explore Institute of Hotel Management takes place with global perspective.</p><p><br></p><p>Our aim is not only to produce the trained and skilled human resources but also individuals who have completely imbibed managerial aspects and conceptual understanding of the dynamics of tourism industry and hospitality industry from the business point of view.</p>",
+      "updatedAt": "Mon Mar 27 2023 14:15:23 GMT+0545 (Nepal Time)"
+    },
+    "MessageFromMD": {
+      "createdAt": "Thu Mar 30 2023 18:41:51 GMT+0545 (Nepal Time)",
+      "description": "<h3><strong>Message from Managing Director/CEO</strong></h3><p>It gives me immense pleasure inviting you to launch a skilled career at Global Hospitality Industry with endless employment opportunities through the Explore Institute of Hotel Management (EIHM) Explore Institute of Hotel Management is my passionate initiative towards ultimate goal of providing high quality professional learning across the world in hospitality Industry.&nbsp;</p><p><br></p><p>We at EIHM engage our trainee students not only in hospitality learning but also in building attitude to think positive and work constructively with high strength of motivation. The institute has created a system that preeminently involves the trainee scholars in autonomous process designed for apprenticeship allowing them to enhance working confidence.&nbsp;We promise quality environment as crucial for learner confidence boosted in the infusion of personality development programs organized in increasing frequency for high quality education at EIHM. In addition to preparing our students for excelling as professionals, we give plentiful effort and that is to developing our scholars who join us with aspiration to graduate with high level of confidence and vocational and professional competence and skills honed before and by the time EIHM hospitality training is declared accomplished.&nbsp;</p><p><br></p><p>Within its institutional vision, Explore idealizes academic excellence in an approach to delivering classes combined with practical sessions in proportion of 25% theory and 75% practical, we make our attempt to instill in graduates a sense of social commitment in delivering best services of hospitality that in principles, ethics, values and use are qualitatively standardized and professionally proven. EIHM to this date has reached a standard enjoying a pool of large number of alumni who of its students who have been identically enjoying prestigious placements in many cosmopolitans across globalin various parts of the world. Our student alumni have been serving in reputed hotels, restaurants and cruise lines and others in hospitality sector. Most of the recruits from EIHM have their success stories of progress in career that keep them flowing in with thank you notes to the EIHM management.</p><p><br></p><p>In addition, EIHM has a strong team who are committed to creating the future leaders in the Industry by providing the best quality education operated in the world class standard infrastructure equipped with best quality facilities and high-tech systems we have ensured for best quality training and educational process made identical to EIHM benchmark in exploring professionally proven skills in our graduates. Our Diploma in Hotel Management &amp;Culinary Arts programs affiliated to international professional centers of training and accredited institutions have been a great success and we are working constantly to upgrade the programs being complacent to changing hotel trends.</p><p><br></p><p>Powered with most updated educational features, I am delighted to welcome all the aspirant youth to join professional courses in hospitality combined with educational experiences at Explore located in Kathmandu, a city of wonder of the world and tourism.&nbsp;</p><p><br></p><p>On behalf of the team of Explore Institute of Hotel Management, I extend a warm welcome to you.</p><p><br></p><p>Rajendra Pd. Tripathi</p><p>(Managing Director/CEO)&nbsp;</p>",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/test-26a9a.appspot.com/o/image%2FAboutUs%2FMessageFromPD%2Fpd.png?alt=media&token=e9782867-ac93-4d46-8b71-82a7083f4397",
+      "updatedAt": "Thu Mar 30 2023 18:41:51 GMT+0545 (Nepal Time)"
+    },
+    "MessageFromPD": {
+      "createdAt": "Thu Mar 30 2023 18:41:28 GMT+0545 (Nepal Time)",
+      "description": "<p>We are proud to mention that Explore Institute of Hotel Management is a renowned name in the field of Hospitality Education. We have state-of-the-art infrastructure to enable students to learn all the aspects of Hospitality industry in a profound manner. Key emphasis is being laid on making the students understand the term Hospitality and its values.</p><p><br></p><p>Since \"Hospitality Sector\" is a creative sector, hence we have been strenuously working hard to explore creativity among our students to enable them to become top-notch Professionals. The major areas of learning in the Hospitality industry i.e. Food Production, Guest Servicing, Guest Relations and Maintenance of Cleanliness and Hygiene, all these pivotal areas are being taught to the students with utmost professionalism at Explore Institute of Hotel Management.</p><p><br></p><p>If you really want to be the best in the \"Hospitality Sector\" and if you are ready to \"Serve with a Smile\", we welcome you on board...</p>",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/test-26a9a.appspot.com/o/image%2FAboutUs%2FMessageFromMD%2Fmd.png?alt=media&token=9b9724d0-4768-4981-a43a-6f8993381b52",
+      "updatedAt": "Thu Mar 30 2023 18:41:28 GMT+0545 (Nepal Time)"
+    },
+    "MissionVision": {
+      "mission": "<p>Explore Institute of Hotel Management is a learning environment where a multi-national student body is taught the professional, intellectual, personal and practical leadership skills necessary to succeed in their chose fields in the hospitality industry worldwide.</p>",
+      "mission_statement": "<p>To create and nurture future hospitality leaders by imparting qualitative and industry relevant theoretical, practical and on-the-job industrial training so as to make them contribute towards the excellence and growth of the global hospitality industry.</p>",
+      "vision": "<p>It is to create efficient and qualified skilled manpower for the hospitality industry in international level; so that our students can be transformed as professional human capital for the local and international market.</p>"
+    },
+    "Teams": {
+      "-NPpbYmHC6gO8m-cSe7v": {
+        "createdAt": "Mon Mar 06 2023 12:16:31 GMT+0545 (Nepal Time)",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/test-26a9a.appspot.com/o/image%2FTeamMembers%2Fperson.png?alt=media&token=aa1de016-8a1b-460a-90b2-532cc2213df4",
+        "key": "",
+        "member_name": "Bipin Dhungana",
+        "position": "UI/UX",
+        "slug": "bipin-dhungana",
+        "updatedAt": "Mon Mar 06 2023 12:16:31 GMT+0545 (Nepal Time)"
+      },
+      "-NPpbbGa3iFjkC52iGnR": {
+        "createdAt": "Mon Mar 06 2023 12:16:46 GMT+0545 (Nepal Time)",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/test-26a9a.appspot.com/o/image%2FTeamMembers%2Fperson.png?alt=media&token=978fbead-76e8-44e4-8ed3-16c6ba20a688",
+        "key": "",
+        "member_name": "Prajwal Upreti",
+        "position": "Web Developer",
+        "slug": "prajwal-upreti",
+        "updatedAt": "Mon Mar 06 2023 12:16:46 GMT+0545 (Nepal Time)"
+      },
+      "-NPpbgZSiS7HbfVQvrGR": {
+        "createdAt": "Mon Mar 06 2023 12:17:07 GMT+0545 (Nepal Time)",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/test-26a9a.appspot.com/o/image%2FTeamMembers%2Fperson.png?alt=media&token=2bb581f4-8484-4234-a0cd-1c58c7eb67e4",
+        "key": "",
+        "member_name": "Sameer Basnet",
+        "position": "UI/UX",
+        "slug": "sameer-basnet",
+        "updatedAt": "Mon Mar 06 2023 12:17:07 GMT+0545 (Nepal Time)"
+      }
+    },
+    "WhyExploreIHM": {
+      "createdAt": "Tue Mar 14 2023 20:22:53 GMT+0545 (Nepal Time)",
+      "description": "<ul><li>Provides international standards of hospitality education</li><li>100% Internship &amp; Job placement Assistance upon successful completion of the course</li><li>Almost all of the students have been placed in 5 star hotels overseas</li><li>Both practical and theoretical knowledge are equally valued and taught for the student’s benefit</li><li>Taught by experienced faculty with hospitality experience</li><li>Well infrastructure Practical Lab with well equipments.</li></ul>",
+      "updatedAt": "Tue Mar 14 2023 20:22:53 GMT+0545 (Nepal Time)"
+    }
+  },
+  "Career": {
+    "data": {
+      "-NPq76AWmfO0fgBuvCHQ": {
+        "createdAt": "March 06,2023",
+        "description": "<p>Explore Hotel Management &amp; Tourism Training Center (EMTC) is authorized institute to extend accreditation to the trainee on completion of their package. The certification issued by the institute is getting accreditation from CTEVT.</p>",
+        "header": "CERTIFICATION",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/test-26a9a.appspot.com/o/image%2FCourses%2Fexplore-event-image.jpg?alt=media&token=5eb14f9c-bda2-4164-a0f7-362fe8d4e412",
+        "key": "-NPq76AWmfO0fgBuvCHQ",
+        "slug": "certification",
+        "title": "Providing you with the best",
+        "updatedAt": "Tue Mar 14 2023 13:08:28 GMT+0545 (Nepal Time)"
+      },
+      "-NPq7LXLtWC7-phoVCaz": {
+        "createdAt": "March 06,2023",
+        "description": "<p>On completion of the training packages offered at the Explore Institute, the passed out candidates will be eligible for job opportunity at various employer sectors. A few specific potential sectors can below:</p><ul><li class=\"ql-indent-2\">Hotel</li><li>Cruise</li><li>Travel Agency</li><li>Restaurants</li><li>Bar</li><li>Enterprueners</li><li>Airlines</li></ul>",
+        "header": "JOB OPPORTUNITIES",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/test-26a9a.appspot.com/o/image%2FCourses%2Flouis-hansel-adYREqRdHCs-unsplash.jpg?alt=media&token=64e1ae18-4bcb-4d9a-8bc7-6d54d3034f17",
+        "key": "-NPq7LXLtWC7-phoVCaz",
+        "slug": "job-opportunities",
+        "title": "Providing you with the best",
+        "updatedAt": "Sun Mar 19 2023 20:11:05 GMT+0545 (Nepal Time)"
+      }
+    },
+    "details": {
+      "description": "<p>The Council for Technical Education and Vocational Training (CTEVT) constituted in 1989 (2045 BS) is a national autonomous apex body of Technical and Vocational Education and Training (TVET) sector committed for the production of technical and skillful human resources required to the nation. It mainly involves in policy formulation, quality control, preparation of competency based curriculum, developing skill standards of various occupations and testing the skills of the people, conduct various research studies and training needs assessment.</p>"
+    }
+  },
+  "Contact": {
+    "-NQzrJObxRHNto-daiMF": {
+      "contact_email": "sagar@gmail.com",
+      "contact_message": "sagar",
+      "contact_name": "sagar"
+    }
+  },
+  "Courses": {
+    "-NQ0glDiDZU1zqRThB8S": {
+      "category": "",
+      "course_name": "CTEVT",
+      "createdAt": "March 08,2023",
+      "description": "<p>The Council for Technical Education and Vocational Training (CTEVT) constituted in 1989 (2045 BS) is a national autonomous apex body of Technical and Vocational Education and Training (TVET) sector committed for the production of technical and skillful human resources required to the nation. It mainly involves in policy formulation, quality control, preparation of competency based curriculum, developing skill standards of various occupations and testing the skills of the people, conduct various research studies and training needs assessment.</p>",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/test-26a9a.appspot.com/o/image%2FCourses%2Fctevt-img.jpg?alt=media&token=8364ad1c-4480-47bf-996f-92f7a25e2036",
+      "key": "-NQ0glDiDZU1zqRThB8S",
+      "keyword": "CTEVT",
+      "listed_in": "",
+      "slug": "ctevt",
+      "updatedAt": "Tue Mar 14 2023 20:23:33 GMT+0545 (Nepal Time)"
+    },
+    "-NQ0hUxpxS2gemAFNorO": {
+      "category": "",
+      "course_name": "ETVA",
+      "createdAt": "March 08,2023",
+      "description": "<p>Explore Institute of Hotel Management (EIHM) is located at Kalimati (Near KEC college &amp; T.B. Hospital). It is one of the leading private Government approved Institutes established in 2010 A.D. It has been serving hotel, tourism and hospitality industry for more than 15 years It imparts technical as well as academic knowledge at international standard in the field of hospitality industry. We are associated with reputed hotels, resorts, motels, restaurants, bars, travel agencies and other service industries throughout the nation and also tie up abroad; hence, the grooming of students at Explore Institute of Hotel Management Training Center takes place with global perspective.</p>",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/test-26a9a.appspot.com/o/image%2FCourses%2Fetva-img.jpg?alt=media&token=46ed39bb-1e1b-4527-8bc7-f4097d22445b",
+      "key": "-NQ0hUxpxS2gemAFNorO",
+      "keyword": "ETVA",
+      "listed_in": "",
+      "slug": "etva",
+      "updatedAt": "Tue Mar 14 2023 20:23:40 GMT+0545 (Nepal Time)"
+    },
+    "-NQVO2KQEHXyAEWLmztX": {
+      "category": "",
+      "course_name": "Others",
+      "createdAt": "March 14,2023",
+      "description": "<p>Other available Courses</p>",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/test-26a9a.appspot.com/o/image%2FCourses%2Fourstory.png?alt=media&token=a61112af-17e2-4aa7-ae1f-ae44ee3aa9d8",
+      "key": "-NQVO2KQEHXyAEWLmztX",
+      "keyword": "Other Courses",
+      "listed_in": "",
+      "slug": "others",
+      "updatedAt": "Tue Mar 21 2023 13:42:52 GMT+0545 (Nepal Time)"
+    }
+  },
+  "Events": {
+    "-NPq2vgVT-ibjtY4HIqH": {
+      "createdAt": "March 06,2023",
+      "description": "<p><span style=\"color: rgb(102, 102, 102);\">In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content</span></p><p><span style=\"color: rgb(102, 102, 102);\">.</span></p><p><span style=\"color: rgb(102, 102, 102);\">﻿ Lorem ipsum may be used as a placeholder before final copy is available. It is also used to temporarily replace text in a process called greeking, which allows designers to consider the form of a webpage or publication.In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available. It is also used to temporarily replace text in a process called greeking, which allows designers to consider the form of a webpage or publication.In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available. It is also used to temporarily replace text in a process called greeking, which allows designers to consider the form of a webpage or publication.In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available. It is also used to temporarily replace text in a process called greeking, which allows designers to consider the form of a webpage or publication.In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available. It is also used to temporarily replace text in a process called greeking, which allows designers to consider the form of a webpage or publication.</span></p>",
+      "end_date": "March 29, 2023",
+      "event_title": "Holi Special",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/test-26a9a.appspot.com/o/image%2FEvents%2FexploreIHM1.png?alt=media&token=0af7e694-d6d8-4482-b467-65a856156b84",
+      "key": "-NPq2vgVT-ibjtY4HIqH",
+      "keyword": "Holi ",
+      "location": "Nepaltar",
+      "slug": "holi-special",
+      "start_date": "March 20, 2023",
+      "updatedAt": "Sun Mar 19 2023 18:37:05 GMT+0545 (Nepal Time)"
+    },
+    "-NR2Wo1_5nnPZZh8VmS6": {
+      "createdAt": "Tue Mar 21 2023 15:21:48 GMT+0545 (Nepal Time)",
+      "description": "<p><a href=\"https://www.facebook.com/exploreinstituteofhotelmanagement/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(80, 80, 80);\">Explore Institute of Hotel Management</a><span style=\"color: rgb(80, 80, 80);\">&nbsp;is organizing 3 day event ‘Explore LEAP’ where students learn, enjoy, apply &amp; prepare themselves as a professional in Hospitality Industry.</span></p><p><br></p><p><span style=\"color: rgb(80, 80, 80);\">There will be 3 different competitions in the event, presentation, cooking and fustal. Presentation Competition is designed in such a way that our students will enhance their communication skill and interpersonal skill, which is must required element for successful career.</span></p><p><br></p><p><span style=\"color: rgb(80, 80, 80);\">In cooking competition group of students will prepare 3 course menu on Italian, Chinese, Indian and continental. Judges including Chef will evaluate on different criteria. Our students need to be confident and professional in every aspect and cooking is the core.</span></p><p><br></p><p><span style=\"color: rgb(80, 80, 80);\">In every organization team work is crucial. Every individual in a team plays a vital role in the success of an organization. Through fustal, we make students rejoice and experience team importance so they they would apply in their professional career in the days to come.</span></p>",
+      "end_date": "March 31, 2023",
+      "event_title": "Explore LEAP (Learn, Enjoy, Apply & Prepare)",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/test-26a9a.appspot.com/o/image%2FEvents%2Fexplore-event-image.jpg?alt=media&token=6a4ae737-364b-4e9c-9a91-ac757ff9d126",
+      "key": "",
+      "keyword": "Explore LEAP (Learn, Enjoy, Apply & Prepare)",
+      "location": "Kalimati,Kathmandu",
+      "slug": "explore-leap-(learn,-enjoy,-apply-&-prepare)",
+      "start_date": "March 15, 2023",
+      "updatedAt": "Tue Mar 21 2023 15:21:48 GMT+0545 (Nepal Time)"
+    }
+  },
+  "ExtraCourses": {
+    "-NQ109GTSR5Zleg566Bk": {
+      "category": "ctevt",
+      "course_name": "Food Production",
+      "createdAt": "March 08,2023",
+      "description": "<p>ood production, as the name suggests, is all about preparing food. It is the process of transforming raw ingredients into prepared food items.</p><p>Food production is a major department in hospitality industry in which candidates can excel by learning various aspects of food production such as preparation techniques, cooking methods, kitchen management, food cost control, etc. The chef is the backbone of food and beverage department. The professional has the responsibility of preparing food for all specialty restaurants along with performing some other duties such as deciding the menu, maintaining quality of food, supervising the kitchen and so on.</p><p>Candidates aspiring to build their career in the field of food production have bright prospects if they are focused to learn all the required skills starting from chopping to preparing a variety of dishes in cuisines such as Indian, Chinese, Continental, etc.</p>",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/test-26a9a.appspot.com/o/image%2FCourses%2Ffood-production-ctevt.jpg?alt=media&token=a5614237-f544-4a3b-85ae-d76089dd02f7",
+      "key": "-NQ109GTSR5Zleg566Bk",
+      "keyword": "Food Production",
+      "listed_in": "POPULAR",
+      "slug": "food-production",
+      "updatedAt": "Tue Mar 14 2023 20:10:40 GMT+0545 (Nepal Time)"
+    },
+    "-NQ12vsRqMSLUCTbYk9a": {
+      "category": "ctevt",
+      "course_name": "Basic Cook",
+      "createdAt": "March 08,2023",
+      "description": "<p>This diploma program is an intensive,&nbsp;course that provides hands-on and theoretical training in classic culinary techniques. Students also receive job search information and actual assistance in finding fulfilling employment. Exclusive to&nbsp;Career Action Plan Services, or CAPS, has been developed to provide the maximum in assistance to students and graduates in launching their career in the culinary arts field. Our professional graduate services team guides you in making the right choices and decisions for your career.</p>",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/test-26a9a.appspot.com/o/image%2FCourses%2Fcooking-ctevt.jpg?alt=media&token=7bc7c3ff-c05d-4911-873c-d212f5005074",
+      "key": "-NQ12vsRqMSLUCTbYk9a",
+      "keyword": "Basic Cook",
+      "listed_in": "POPULAR",
+      "slug": "basic-cook",
+      "updatedAt": "Tue Mar 14 2023 20:23:49 GMT+0545 (Nepal Time)"
+    },
+    "-NQ13LA9Qa8EhESliKjn": {
+      "category": "etva",
+      "course_name": "Professional Diploma in Hotel Management",
+      "createdAt": "March 08,2023",
+      "description": "<p>The size and complexity of a hotel management organizational structure varies significantly depending on the size, features, and function of the hotel or resort. A small hotel operation normally may consist of a small core management team consisting of a Hotel Manager and a few key department supervisors who directly handle day-to-day operations.</p><p>On the other hand, a large full-service hotel or resort complex often operates more similarly to a large&nbsp;corporation&nbsp;with an executive board headed by the&nbsp;General Manager&nbsp;and consisting of key directors serving as heads of individual hotel departments. Each department at the large hotel or resort complex may normally consist of subordinate line-level managers and supervisors who handle day-to-day operations.</p>",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/test-26a9a.appspot.com/o/image%2FCourses%2Fhotel-mgmt-ctevt.jpg?alt=media&token=8a5c809e-8880-467d-8859-235af1af8d11",
+      "key": "-NQ13LA9Qa8EhESliKjn",
+      "keyword": "Professional Diploma in Hotel Management",
+      "listed_in": "NORMAL",
+      "slug": "professional-diploma-in-hotel-management",
+      "updatedAt": "Tue Mar 21 2023 13:01:47 GMT+0545 (Nepal Time)"
+    },
+    "-NQVW4HZxR2kG4JxuCdh": {
+      "category": "ctevt",
+      "course_name": "Barista Training",
+      "createdAt": "March 14,2023",
+      "description": "<p>A&nbsp;barista&nbsp;is a person, usually a&nbsp;coffeehouse&nbsp;employee, who prepares and serves&nbsp;espresso-based&nbsp;coffee&nbsp;drinks.</p><p>Barista&nbsp;is the Italian word for “bartender”; where it means a male or female “bartender” who typically works behind a counter, serving hot drinks (such as&nbsp;espresso), cold&nbsp;alcoholic&nbsp;and non- alcoholic beverages, and snacks. The native plural in English is&nbsp;baristas, while in Italian the</p><p>plural is&nbsp;baristi&nbsp;for masculine (literally meaning “barmen”, “bartenders”) or&nbsp;bariste&nbsp;for feminine (literally meaning “barmaids”).</p>",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/test-26a9a.appspot.com/o/image%2FCourses%2Fbarista-etva.jpg?alt=media&token=aab5682d-15a0-47a5-a63e-e5a4e5f2512d",
+      "key": "-NQVW4HZxR2kG4JxuCdh",
+      "keyword": "Barista Training",
+      "listed_in": "POPULAR",
+      "slug": "barista-training",
+      "updatedAt": "Tue Mar 21 2023 13:04:35 GMT+0545 (Nepal Time)"
+    },
+    "-NQVWNrA88krTvAqURzG": {
+      "category": "etva",
+      "course_name": "Certificate program in Bar Tending",
+      "createdAt": "March 14,2023",
+      "description": "<p>Flair bartending&nbsp;is the practice of&nbsp;bartenders&nbsp;entertaining guests, clientele or audiences with the&nbsp;manipultaion&nbsp;of bar&nbsp;tools (e.g.&nbsp;cocktail shakers) and&nbsp;liquor&nbsp;bottles in tricky, dazzling ways. Used occasionally in&nbsp;cocktail&nbsp;&nbsp;bars, the action requires skills commonly associated with jugglers. It has become a sought-after talent among venue owners and marketers to help advertise a liquor product or the opening of a bar establishment. Competitions have been sponsored by liquor brands to attract flair bartenders, and some hospitality training companies hold courses to teach flair techniques.</p>",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/test-26a9a.appspot.com/o/image%2FCourses%2Fbartending-ctevt.jpg?alt=media&token=a1469391-2404-47ca-a374-f69e33b5dc63",
+      "key": "-NQVWNrA88krTvAqURzG",
+      "keyword": "Certificate program in Bar Tending",
+      "listed_in": "POPULAR",
+      "slug": "certificate-program-in-bar-tending",
+      "updatedAt": "Tue Mar 14 2023 20:24:03 GMT+0545 (Nepal Time)"
+    },
+    "-NQVWWuaXnYeowxww_qB": {
+      "category": "etva",
+      "course_name": "Professional Diploma in Culinary Arts",
+      "createdAt": "March 14,2023",
+      "description": "<p>The Culinary Arts, in the&nbsp;Western world, as a craft and later as a field of study, began to evolve at the end of the&nbsp;Renaissance&nbsp;period. Prior to this, chefs worked in castles, cooking for kings and queens, as well as their families, guests, and other workers of the castle. As&nbsp;Monarchical rule&nbsp;became phased out as a modality, the chefs took their craft to&nbsp;inns and hotels. From here, the craft evolved into a field of study.</p><p>Before cooking institutions, professional cooks were mentors for individual students who apprenticed under them. In 1879 the first cooking school was founded in the United States: the Boston Cooking School. This school standardized cooking practices and recipes, and laid the groundwork for the culinary arts schools that would follow.Today, there are thousands of Culinary Arts schools around the world. Additionally, most universities, as well as many smaller tertiary schools like community colleges, offer some type of Culinary Arts Degree, which is technically a Bachelor of Arts Degree.</p>",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/test-26a9a.appspot.com/o/image%2FCourses%2Fculinary-arts-ctevt.jpg?alt=media&token=92a6abef-8348-4313-81d0-de1554aad63f",
+      "key": "-NQVWWuaXnYeowxww_qB",
+      "keyword": "Professional Diploma in Culinary Arts",
+      "listed_in": "NORMAL",
+      "slug": "professional-diploma-in-culinary-arts",
+      "updatedAt": "Tue Mar 14 2023 20:36:57 GMT+0545 (Nepal Time)"
+    },
+    "-NQVWgwZDVgUi883Jri1": {
+      "category": "etva",
+      "course_name": "Certificate program in Barista Training",
+      "createdAt": "March 14,2023",
+      "description": "<p>A&nbsp;barista&nbsp;is a person, usually a&nbsp;coffeehouse&nbsp;employee, who prepares and serves&nbsp;espresso-based&nbsp;coffee&nbsp;drinks.</p><p>Barista&nbsp;is the Italian word for “bartender”&nbsp;where it means a male or female “bartender” who typically works behind a counter, serving hot drinks (such as&nbsp;espresso), cold&nbsp;alcoholic&nbsp;and non- alcoholic beverages, and snacks. The native plural in English is&nbsp;baristas, while in Italian the plural is&nbsp;baristi&nbsp;for masculine (literally meaning “barmen”, “bartenders”) or&nbsp;bariste&nbsp;for feminine(literally meaning “barmaids”).</p>",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/test-26a9a.appspot.com/o/image%2FCourses%2Fbarista-ctevt.jpg?alt=media&token=63db82f2-a1ec-42fb-988a-e155f4df6222",
+      "key": "-NQVWgwZDVgUi883Jri1",
+      "keyword": "Certificate program in Barista Training",
+      "listed_in": "POPULAR",
+      "slug": "certificate-program-in-barista-training",
+      "updatedAt": "Tue Mar 21 2023 13:05:57 GMT+0545 (Nepal Time)"
+    },
+    "-NQVWrQ7xnXRg_Rl1Ute": {
+      "category": "etva",
+      "course_name": "Diploma in Culinary Arts",
+      "createdAt": "March 14,2023",
+      "description": "<p>The Culinary Arts, in the&nbsp;Western world, as a craft and later as a field of study, began to evolve at the end of the&nbsp;Renaissance&nbsp;period. Prior to this, chefs worked in castles, cooking for kings and queens, as well as their families, guests, and other workers of the castle. As&nbsp;Monarchical rule&nbsp;became phased out as a modality, the chefs took their craft to&nbsp;inns and hotels. From here, the craft evolved into a field of study.</p><p>Before cooking institutions, professional cooks were mentors for individual students who apprenticed under them. In 1879 the first cooking school was founded in the United States: the Boston Cooking School. This school standardized cooking practices and recipes, and laid the groundwork for the culinary arts schools that would follow.</p><p>Today, there are thousands of Culinary Arts schools around the world. Additionally, most universities, as well as many smaller tertiary schools like community colleges, offer some type of Culinary Arts Degree, which is technically a Bachelor of Arts Degree.</p>",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/test-26a9a.appspot.com/o/image%2FCourses%2Fculinary-arts-etva.jpg?alt=media&token=9c2e4b75-1f34-46f7-bb40-b85f4d46508c",
+      "key": "-NQVWrQ7xnXRg_Rl1Ute",
+      "keyword": "Diploma in Culinary Arts",
+      "listed_in": "NORMAL",
+      "slug": "diploma-in-culinary-arts",
+      "updatedAt": "Tue Mar 21 2023 13:01:29 GMT+0545 (Nepal Time)"
+    },
+    "-NQVX4Tu-s4OhT4UxWde": {
+      "category": "others",
+      "course_name": "Personal grooming & Hygiene",
+      "createdAt": "March 14,2023",
+      "description": "<p>While we may all know, not to judge a book by its cover, there are a few instances where presentation really does matter. In the hotel industry, polished presentation is vital to success. Everything about your property will be evaluated through photographs and reviews before a guest even decides to purchase a room. If your rooms look out of date, your lobby is dirty or your restaurant looks cramped, guests will make an initial judgment about your property that will not be in your favor. The same applies to the hotel staff too. They must look professional and presentable because they are an integral part of the property.Now it is very importantly applicable to staff, when it comes to the staff’s demeanor, uniform and personal grooming habits, employees should follow a strict dress code so they can be the face of the hotel. It can make or break the impression of your hotel.</p><p>While grooming requirements will vary between men and women, it is important that both look clean and presentable while employees are on the clock. Make sure all your employees know the dress code, and provide them with a clear outline of what is expected.</p><p>The physical appearance of the hotel staff helps to maintain the overall appearance, but the way they act also contributes to the hotel’s reputation.</p>",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/test-26a9a.appspot.com/o/image%2FCourses%2FBar-service-practical1.jpg?alt=media&token=857d9f38-86d5-4005-bf7c-80edbd73606e",
+      "key": "-NQVX4Tu-s4OhT4UxWde",
+      "keyword": "Personal grooming & Hygiene",
+      "listed_in": "NORMAL",
+      "slug": "personal-grooming-&-hygiene",
+      "updatedAt": "Tue Mar 21 2023 13:00:30 GMT+0545 (Nepal Time)"
+    },
+    "-NQVXCcyXcTUfCmA9kgn": {
+      "category": "others",
+      "course_name": "Personality Development",
+      "createdAt": "March 14,2023",
+      "description": "<p>Personality development helps you develop a positive attitude in life. An individual with a negative attitude finds a problem in every situation. Rather than cribbing and criticizing people around, analyze the whole situation and try to find an appropriate solution for the same. Remember, if there is a problem, there has to be a solution as well. Never lose your cool. It would make the situation worse.</p><p>Personality development plays an important role in developing not only your outer but also inner self. Human being is a social animal. One needs people around. An individual needs to have that magnetic power which attracts people towards him/her. You need to have that charisma of yours. Personality development helps you gain recognition and acceptance from the society as well as people around.</p><p>One should never carry his/her attitude or personal grudges to work. Office is not a place where you can be rude to others just because you had a fight with your friend last night.</p><p>Personality development sessions help you differentiate between your personal as well as professional life. It is really essential to keep a balance between both the lives to lead a peaceful and stress free life.</p>",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/test-26a9a.appspot.com/o/image%2FCourses%2FPersonality-Development.png?alt=media&token=0388a2ea-d195-4790-a532-5918279ef84a",
+      "key": "-NQVXCcyXcTUfCmA9kgn",
+      "keyword": "Personality Development",
+      "listed_in": "NORMAL",
+      "slug": "personality-development",
+      "updatedAt": "Tue Mar 14 2023 20:17:19 GMT+0545 (Nepal Time)"
+    },
+    "-NQVXQXssy5eLeP9rDUz": {
+      "category": "others",
+      "course_name": "Hospitality Training",
+      "createdAt": "March 14,2023",
+      "description": "<p>Being the most widely spoken language in the world, it makes sense that English is vital within the hospitality sector. Learn more with us!!! The world of hospitality involves travel and tourism and so having a main language across the world that’s spoken by all employees in this field is important .Whether a person is employed by a hotel, restaurant or travel agents in a non-English speaking country, you can expect them to have a good level of English. Although many countries around the world have their own unique tourism treasures, they share a common language and this puts workers as well as travelers at ease. Remember, in the hospitality sector, no matter where you’re working, you’re likely to meet people from across the world and many of them will likely to communicate with you in English. If you’d like to brush up on your knowledge, English language courses specifically for hospitality workers can be helpful. In fact, English language knowledge is considered so important that in preparation for the World Cup in 2014, the Brazilian government encouraged its hospitality employees to sign up for free language classes offered by its Ministry of Tourism which 166,000 professionals signed up to. The courses were also tailored to those who signed up, depending on their role within the sector. The government explained that this is a big step in the personal and professional development of employees and it led to a trend in even non- sector members wanting to learn English.</p>",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/test-26a9a.appspot.com/o/image%2FCourses%2FHospitality-English.png?alt=media&token=807b24c9-4f0f-4cd0-8cb4-97bd8d1d46a3",
+      "key": "-NQVXQXssy5eLeP9rDUz",
+      "keyword": "Hospitality Training",
+      "listed_in": "NORMAL",
+      "slug": "hospitality-training",
+      "updatedAt": "Tue Mar 21 2023 13:45:05 GMT+0545 (Nepal Time)"
+    },
+    "-NQVX_UpHFsn_7Yno8v0": {
+      "category": "others",
+      "course_name": "Dining Etiquette",
+      "createdAt": "March 14,2023",
+      "description": "<p>Knowledge of etiquette in the hospitality industry is crucial to helping guests feel comfortable and will keep up your personality immense while dinning. Knowing how to treat guests with courtesy and respect makes them feel safe. Feeling safe allows guests to relax and get comfortable in an unfamiliar setting. Etiquette pertains to generally accepted standards of good behavior. It is, basically, treating people with kindness. Without etiquette, it would be difficult for any business to thrive, particularly in the hospitality industry, where treating people well is of paramount importance. Good etiquette requires making the guests feel important, not just to make a quick sale, but to form a long-term relationship. The rules of etiquette impose guidelines and restrictions that can make interactions seamless. There are several ways to make guests in the hospitality industry feel at ease.</p>",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/test-26a9a.appspot.com/o/image%2FCourses%2FDining.png?alt=media&token=3e2c1b37-df71-4da8-ab0a-9956cd915133",
+      "key": "-NQVX_UpHFsn_7Yno8v0",
+      "keyword": "Dining Etiquette",
+      "listed_in": "NORMAL",
+      "slug": "dining-etiquette",
+      "updatedAt": "Tue Mar 14 2023 20:24:38 GMT+0545 (Nepal Time)"
+    },
+    "-NQVXiMyPfveXetWT48T": {
+      "category": "others",
+      "course_name": "Home Stay Training",
+      "createdAt": "Tue Mar 14 2023 20:19:04 GMT+0545 (Nepal Time)",
+      "description": "<p>When tourism is growing fast it is important to develop it in a sustainable way which benefits the communities involved as much as possible. Home stay tourism can benefit local communities such as mass tourism has been widely criticized for failing to do. Home stay has shown to be successful as a tool for building sustainable tourism and contributing to locals involved in other countries. The concept has given hosts an opportunity to gain from their local resources. This gives the resources importance thereby locals preserve them. The aim to educate the home stay concept in sustainable tourism development through following perspectives: assess the social and economic impacts of having a home stay, identify motivational factors behind local peoples' decisions to put up a home stay, explore further ways of developing home stays in a developing country with focus on the central part of Nepal. The studies argue that this challenge could be overcome by training to a large extent.</p><p>The course topical outline provides a summary of course topics that can be used as a guide when progressing through the course. Upon successful completion of this course, students will be able to:</p><ul><li>Tourism &amp; Hospitality Industries</li><li>Introduction to tourism and the growth of the tourism industry</li><li>Tourism Planning and Development</li><li>Visitor Attraction Management</li><li>Hospitality Studies</li><li>Transportation and its role in the tourism industry</li><li>Marketing Tourism Products</li><li>Events and their role in tourism</li><li>Rural tourism and the landscape &amp; sustainability</li></ul><p><br></p>",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/test-26a9a.appspot.com/o/image%2FCourses%2FBar-service-practical1.jpg?alt=media&token=fd1089af-c76a-45ae-820d-4e40149e7182",
+      "key": "",
+      "keyword": "Home Stay Training",
+      "listed_in": "NORMAL",
+      "slug": "home-stay-training",
+      "updatedAt": "Tue Mar 14 2023 20:19:04 GMT+0545 (Nepal Time)"
+    },
+    "-NQVXpA5orHr6qJm41Us": {
+      "category": "others",
+      "course_name": "Bartender with Flaring",
+      "createdAt": "March 14,2023",
+      "description": "<p>Before we progress, we first look at exactly who a bartender is and what he does. A bartender is someone who serves drinks behind a bar in a bar, pub, tavern or similar establishment. This usually includes alcoholic beverages of some kind, such as beer (both draught and bottled), wine and/or cocktails, as well as soft drinks or other non-alcoholic beverages.</p><p><strong>In addition to their core beverage-serving responsibility, bartenders also:</strong></p><ul><li>Take payment from customers (and sometimes the waiters or waitresses);</li><li>Maintain the liquor, garnishes, glassware, and other supplies or inventory for the bar;</li><li>Serve food to customers sitting at the bar.</li></ul><p>In establishments where cocktails are served, bartenders are expected to be able to mix hundreds to thousands of different drinks.</p><p>Bartenders also usually serve as the public image of the bar they tend, contributing to as well as reflecting the atmosphere of the bar.</p><p>Now-a-days the practice has been enhancing by Flair bartending. It is the practice of bartenders entertaining guests, clientele or audiences with the manipulation of bar tools (e.g. cocktail shakers) and liquor bottles in tricky, dazzling ways. Used occasionally in cocktail bars, the action requires skills commonly associated with jugglers. It has become a sought-after talent among venue owners and marketers to help advertise a liquor product or the opening of a bar establishment. Competitions have been sponsored by liquor brands to attract flair bartenders, and some hospitality training companies hold courses to teach flair techniques.</p>",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/test-26a9a.appspot.com/o/image%2FCourses%2FBar-service-practical1.jpg?alt=media&token=b685cc70-f026-43f7-b6e9-52f792dc8f12",
+      "key": "-NQVXpA5orHr6qJm41Us",
+      "keyword": "Bartender with Flaring",
+      "listed_in": "NORMAL",
+      "slug": "bartender-with-flaring",
+      "updatedAt": "Tue Mar 21 2023 13:01:12 GMT+0545 (Nepal Time)"
+    }
+  },
+  "Facilities": {
+    "data": {
+      "-NPpjp1JwfM1m81hMnwU": {
+        "createdAt": "March 06,2023",
+        "description": "<p>Develop the practical skills, fresh thinking and confidence increasingly in demand by employers. We have got you covered with one-to-one career advice, interactive workshops, industry internships. We also provide you “Soft Skills” like adaptability, critical thinking, good communication, personality development skills, persuasion skills and ethic</p>",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/test-26a9a.appspot.com/o/image%2FCourses%2Fjob-opportunity-features.jpg?alt=media&token=0a8bcdac-9f8d-419c-8c8f-100b6b0877e2",
+        "key": "-NPpjp1JwfM1m81hMnwU",
+        "keyword": "Get Career Ready (PREPARE FOR THE FUTURE)",
+        "slug": "get-career-ready-(prepare-for-the-future)",
+        "title": "Get Career Ready (PREPARE FOR THE FUTURE)",
+        "updatedAt": "Tue Mar 14 2023 20:25:07 GMT+0545 (Nepal Time)"
+      },
+      "-NPpju6DiVVeK_az5F1H": {
+        "createdAt": "March 06,2023",
+        "description": "<p>Gain the critical knowledge you need to establish a career in the business, IT or hospitality industries. Our courses embrace the most relevant and up-to-date methods in use across industry today.</p><p><br></p>",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/test-26a9a.appspot.com/o/image%2FCourses%2Fquality-learning-features.jpg?alt=media&token=ffbfdbc5-5d10-45f8-91fc-77daa759879d",
+        "key": "-NPpju6DiVVeK_az5F1H",
+        "keyword": "Specialist Course",
+        "slug": "specialist-course",
+        "title": "Specialist Course",
+        "updatedAt": "Tue Mar 14 2023 20:20:16 GMT+0545 (Nepal Time)"
+      },
+      "-NPpk1N2iFbdfQx7L0b2": {
+        "createdAt": "March 06,2023",
+        "description": "<p>Our School has everything you need to excel in your studies.Hightech computer lab, e- library, multimedia class rooms, plenty of study spaces and places to chill out.</p><p><br></p>",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/test-26a9a.appspot.com/o/image%2FCourses%2Fpractical-learning-features.jpg?alt=media&token=bdebb25f-5be7-49c8-96eb-2791b7cb5101",
+        "key": "-NPpk1N2iFbdfQx7L0b2",
+        "keyword": "Excellent Facilities",
+        "slug": "excellent-facilities",
+        "title": "Excellent Facilities",
+        "updatedAt": "Tue Mar 14 2023 20:20:24 GMT+0545 (Nepal Time)"
+      },
+      "-NPpk8TBteZVuCwnR31-": {
+        "createdAt": "March 06,2023",
+        "description": "<p>To provide students the opportunity to gain real, hands-on-work experience while studying, PSS has built close ties with the industry to develop employer projects.</p><p><br></p>",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/test-26a9a.appspot.com/o/image%2FCourses%2FRectangle%2012.png?alt=media&token=269d6b86-060e-4931-95ef-861d3e531eb7",
+        "key": "-NPpk8TBteZVuCwnR31-",
+        "keyword": "Study Real world Employer Projects",
+        "slug": "study-real-world-employer-projects",
+        "title": "Study Real world Employer Projects",
+        "updatedAt": "Tue Mar 14 2023 20:20:31 GMT+0545 (Nepal Time)"
+      },
+      "-NPpkDvwPcfeM-yUgI9n": {
+        "createdAt": "March 06,2023",
+        "description": "<p>We encourage bold, independent, thinking and offer the highest quality academic experience to stretch you. You will thrive on plenty of autonomy to direct your own learning, with our academics on hand to challenge your ideas. Our small class size mean you enjoy more contact time with our lectures and tutors, plus the support you need to get the best out of your studies</p><p><br></p>",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/test-26a9a.appspot.com/o/image%2FCourses%2Fwelcome-img.jpg?alt=media&token=1e9d2096-94a9-48a8-a445-20ceeb9fbae5",
+        "key": "-NPpkDvwPcfeM-yUgI9n",
+        "keyword": "Challenging One to Ones",
+        "slug": "challenging-one-to-ones",
+        "title": "Challenging One to Ones",
+        "updatedAt": "Tue Mar 14 2023 20:20:38 GMT+0545 (Nepal Time)"
+      }
+    },
+    "details": {
+      "description": "<h3><strong>Well infrastructure Practical Lab with well equipments.</strong></h3><ul><li>Multimedia-equipped classrooms.</li><li>Well-equipped training Kitchen.</li><li>Well-equipped Bar.</li><li>Well-equipped Housekeeping Lab.</li><li>Well-equipped Housekeeping Lab.</li><li>Well-equipped Housekeeping Lab.</li><li>Computers.</li><li>Hotel Software.</li><li>Internship Facilities at Nepal and Abroad at 5 Star Hotel.</li></ul><p><br></p><p><br></p><h3><strong>Classroom:</strong></h3><ul><li>All classrooms are equipped with powerful projectors and white board.</li></ul><p><br></p><p><br></p><h3><strong>Practical Labs Kitchen:</strong></h3><ul><li>A fully operational kitchen with individual workstations</li><li>Internationally utilized kitchen equipments used for teaching</li></ul><p><br></p><p><br></p><h3><strong>Restaurant:</strong></h3><ul><li>A fully functional restaurant utilized for practical purpose</li><li>Consists of hostess desk, buffet counter and a live cooking station</li></ul>"
+    }
+  },
+  "landing": {
+    "Album": {
+      "-NPpOEAbj7QrUOslFWUz": {
+        "album_title": "Tour",
+        "gallery": {
+          "-NQU3fZk4l4XVAuCWGj-": {
+            "imageUrl": "https://firebasestorage.googleapis.com/v0/b/test-26a9a.appspot.com/o/image%2FAlbum%2Fbartending-ctevt.jpg?alt=media&token=e1e979bc-ebd8-47f9-bb5d-17f93967319a"
+          }
+        }
+      },
+      "-NPpP26azjhnOxNHNUeB": {
+        "album_title": "Training",
+        "gallery": {
+          "-NPpP26wsrIomHcUXYzz": {
+            "imageUrl": "https://firebasestorage.googleapis.com/v0/b/test-26a9a.appspot.com/o/image%2FGallery%2FexploreIHM1.png?alt=media&token=1dee8947-71b8-4d79-913a-a02f9af03a80",
+            "key": "-NPpP26wsrIomHcUXYzz"
+          },
+          "-NPpP4k3yihrJAlQUjps": {
+            "imageUrl": "https://firebasestorage.googleapis.com/v0/b/test-26a9a.appspot.com/o/image%2FAlbum%2FexploreIHM2.png?alt=media&token=cb01d218-aa45-403e-aebc-045abe57d53e",
+            "key": "-NPpP4k3yihrJAlQUjps"
+          }
+        }
+      },
+      "-NQTxxZL1lQVqv1hnDjj": {
+        "album_title": "Hotel Visit Program",
+        "gallery": {
+          "-NQTxxZR5WyKzq-horQn": {
+            "imageUrl": "https://firebasestorage.googleapis.com/v0/b/test-26a9a.appspot.com/o/image%2FGallery%2Fhotel-visit-program1.jpg?alt=media&token=f8a9d5ba-d1ed-4430-b43f-cfc7e2f1804d"
+          },
+          "-NQTyVifr-2_f6rxAHQK": {
+            "imageUrl": "https://firebasestorage.googleapis.com/v0/b/test-26a9a.appspot.com/o/image%2FAlbum%2FBar-service-practical1.jpg?alt=media&token=fbc2ced3-0aef-4669-8c98-1d27b5c35e87"
+          },
+          "-NQTyoUTl5p2tzGCoNuH": {
+            "imageUrl": "https://firebasestorage.googleapis.com/v0/b/test-26a9a.appspot.com/o/image%2FAlbum%2Fbartending-ctevt.jpg?alt=media&token=965154fe-a81f-4d01-af65-c639caf9ddf3"
+          },
+          "-NQULqwk2M-zRkDBY3hG": {
+            "imageUrl": "https://firebasestorage.googleapis.com/v0/b/test-26a9a.appspot.com/o/image%2FAlbum%2Fmd.png?alt=media&token=7d1de572-f70a-4703-aad1-b522598acc33"
+          }
+        }
+      },
+      "-NQTzWnKgncK4VECBPfE": {
+        "album_title": "Bar and Service Practical",
+        "gallery": {
+          "-NQTzWnTVeBRZn7ydxqp": {
+            "imageUrl": "https://firebasestorage.googleapis.com/v0/b/test-26a9a.appspot.com/o/image%2FGallery%2Fbartending-ctevt.jpg?alt=media&token=59e028c7-989d-4ea7-8335-8ad8f632a399"
+          },
+          "-NQUO_VtvMBQ8fBlcr-Z": {
+            "imageUrl": "https://firebasestorage.googleapis.com/v0/b/test-26a9a.appspot.com/o/image%2FAlbum%2FlandingImg.webp?alt=media&token=416b7fed-186e-4bd4-8c6d-62d0e459d704"
+          }
+        }
+      }
+    },
+    "Blogs": {
+      "-NPm7p87mOSNtzOOoc8M": {
+        "blog_description": "<p>Cooking is not just about preparing food; it is an art that requires passion, creativity, and a deep understanding of various culinary techniques. The hospitality industry heavily relies on the food production department, and it is important to have a skilled workforce in this field. Aspiring chefs can achieve their dreams by joining professional cooking classes that offer hands-on training in classic culinary techniques.</p><p><br></p><p>At Explore Institute of Hotel Management, we offer an intensive diploma program that provides both theoretical and practical training in food production. Our program is designed to prepare students for a successful career in the culinary arts field. In addition to training, our exclusive graduate services team provides job search information and actual assistance in finding fulfilling employment.</p><p><br></p><p>There are numerous benefits of joining professional cooking classes, including the enhancement of cooking skills. Even if you are already a skilled cook, joining a class can help you improve your skills and learn new techniques. It is also an opportunity to get familiarized with your kitchen and all the kitchen apparatus.</p><p><br></p><p>Additionally, cooking classes provide a platform for cultural exchange. Students from different cultural backgrounds come together to learn and share their knowledge of international cuisines. This helps to increase cultural awareness and appreciation.</p><p><br></p><p>Improving self-confidence is another benefit of joining cooking classes. A high level of self-confidence is crucial for success in any field, and cooking classes can help build that confidence. By learning new skills and techniques, you can gain the confidence to attempt new dishes and experiment with your own creations.</p><p><br></p><p>Lastly, joining cooking classes can kickstart a culinary career. Aspiring chefs can set their goals and decide whether they want to attend a formal culinary school. Professional cooking classes can provide a strong foundation for a career in the culinary arts field.</p><p><br></p><p>At Explore Institute of Hotel Management in Nepal, we offer a range of cooking classes that cater to different skill levels and interests. From cooking basics to making flavored dishes exclusively made for parties, we provide a world of amazing food experiences in an expert kitchen. The hospitality industry heavily relies on the food production department, and it is important to have a skilled workforce in this field. Joining professional cooking classes can provide the necessary training and skills to excel in this field. With the benefits of enhancing cooking skills, increasing cultural awareness, improving self-confidence, and kickstarting a culinary career, cooking classes are a great investment for aspiring chefs and hospitality professionals.</p>",
+        "blog_title": "Providing the Best Professional Cooking Classes for Future Hospitality Leaders",
+        "createdAt": "March 05,2023",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/test-26a9a.appspot.com/o/image%2FBlog%2Fexplore-event-image.jpg?alt=media&token=06c242ec-eae9-44fc-87c5-335e039d16f8",
+        "key": "-NPm7p87mOSNtzOOoc8M",
+        "keyword": "Providing the Best Professional Cooking Classes for Future Hospitality Leaders",
+        "slug": "providing-the-best-professional-cooking-classes-for-future-hospitality-leaders",
+        "updatedAt": "Sun Apr 02 2023 16:32:22 GMT+0545 (Nepal Time)"
+      },
+      "-NR27RatdT4DZvP4w74w": {
+        "blog_description": "<p>Explore Institute of Hotel Management is a leading hospitality school in Nepal that offers a wide range of courses to students who aspire to make a career in the hospitality industry. One of the key benefits of studying at our institute is the exceptional job placement and internship opportunities that we provide.</p><p><br></p><p>Internship Opportunities</p><p>At Explore Institute of Hotel Management, we believe that internships are an essential part of the learning process. They provide students with practical, hands-on experience and an opportunity to apply the theoretical knowledge they have gained in the classroom. Our institute is dedicated to providing students with internships in 5-star category hotels in Nepal. We believe that these internships offer students an excellent opportunity to gain experience and to learn from some of the best professionals in the industry.</p><p><br></p><p>In addition to internships in Nepal, we also offer students internships abroad. Our institute has been providing internships in India, Dubai, and Malaysia, as well as on cruise ships in Europe and America, and many other countries. These internships offer students a unique opportunity to gain exposure to different cultures and cuisines while gaining valuable work experience.</p><p><br></p><p>Job Opportunities</p><p>At Explore Institute of Hotel Management, we are committed to helping our students prepare for real-life experiences in the hospitality industry. On completion of the training programs offered at our institute, passed-out candidates are eligible for job opportunities in various sectors, including hotels, cruise ships, travel agencies, restaurants, bars, airlines, and as entrepreneurs.</p><p><br></p><p>Our institute has a dedicated placement cell that works closely with students to help them find suitable job opportunities. Our team provides students with job search information, as well as actual assistance in finding fulfilling employment. We have developed an exclusive Career Action Plan Services (CAPS) to provide maximum assistance to students and graduates in launching their careers in the hospitality industry. Our professional graduate services team guides students in making the right choices and decisions for their careers.</p><p><br></p><p>Explore Institute of Hotel Management offers exceptional job placement and internship opportunities to students who aspire to make a career in the hospitality industry. Our institute is dedicated to providing students with practical, hands-on experience and an opportunity to apply the theoretical knowledge they have gained in the classroom. We are committed to helping our students prepare for real-life experiences in the hospitality industry and to helping them find fulfilling employment in their chosen fields.</p>",
+        "blog_title": "EIHM Offers Exceptional Job Placement & Internship Opportunities",
+        "createdAt": "March 21,2023",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/test-26a9a.appspot.com/o/image%2FBlog%2F322719366_505773135030823_1124184170750315456_n.jpg?alt=media&token=8a45f68f-0a0c-44e8-888c-b053898d4db1",
+        "key": "-NR27RatdT4DZvP4w74w",
+        "keyword": "Explore Institute of Hotel Management's Offers Exceptional Job Placement & Internship Opportunities",
+        "slug": "eihm-offers-exceptional-job-placement-&-internship opportunities",
+        "updatedAt": "Tue Mar 28 2023 13:03:58 GMT+0545 (Nepal Time)"
+      },
+      "-NS0fLwiZ_-89shTCVDO": {
+        "blog_description": "<p>Established in 2011 A.D., Explore Institute of Hotel Management (EIHM) has been at the forefront of providing quality education and training to students seeking a career in the hospitality industry. As one of the leading private institutions in Nepal, Explore has accomplished flourishing the career opportunities of hundreds of enthusiastic candidates who pursued their career opportunities at Explore's regard.At EIHM, we are committed to providing our students with the technical as well as academic knowledge at international standards in the field of the hospitality industry. Our institution is approved by the government and has been serving the hotel, tourism, and hospitality industry for more than 15 years. We are associated with reputed hotels, resorts, motels, restaurants, bars, travel agencies, and other service industries throughout the nation and also tie up abroad, hence the grooming of students at Explore Institute of Hotel Management Training Center takes place with a global perspective.One of the major departments in the hospitality industry is food production, and EIHM provides its students with the opportunity to excel in this field. Our curriculum covers various aspects of food production, such as preparation techniques, cooking methods, kitchen management, and food cost control. Our professional and experienced faculty members ensure that our students are trained to become the backbone of the food and beverage department.The chef plays a crucial role in the food and beverage department. They are responsible for preparing food for all specialty restaurants, maintaining the quality of food, deciding the menu, supervising the kitchen, and more. Candidates aspiring to build their career in the field of food production have bright prospects if they are focused on learning all the required skills starting from chopping to preparing a variety of dishes in cuisines such as Indian, Chinese, Continental, and more.At Explore Institute of Hotel Management, we provide our students with hands-on training, practical exposure, and real-world experiences. We aim to provide a fruitful career prospect to those who seek our assistance and have succeeded in serving hundreds of happy candidates who are more than happy with the institution's generosity. With our vision to embellish our candidate's career to a higher level, we have been successful in fulfilling the dreams of many aspiring professionals.If you are looking to build a career in the hospitality industry, Explore Institute of Hotel Management should be your top choice. With our commitment to providing quality education, global exposure, and real-world experiences, we have established ourselves as the top training institute for hospitality education in Nepal.</p>",
+        "blog_title": "Discovering Excellence: Why Explore Institute of Hotel Management ?",
+        "createdAt": "Sun Apr 02 2023 16:59:57 GMT+0545 (Nepal Time)",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/explore2-ae1eb.appspot.com/o/image%2FBlog%2F332520934_1992758431078472_2305961372843946711_n.jpg?alt=media&token=216733cb-49bd-427b-b39c-2719df08dce2",
+        "key": "",
+        "keyword": "Discovering Excellence: Why Explore Institute of Hotel Management ?",
+        "slug": "discovering-excellence-why-explore-institute-of-hotel-management",
+        "updatedAt": "Sun Apr 02 2023 16:59:57 GMT+0545 (Nepal Time)"
+      }
+    },
+    "Details": {
+      "address": "Near Joyti Hospital, Kalimati, Kathmandu",
+      "createdAt": "Sun Mar 05 2023 19:51:55 GMT+0545 (Nepal Time)",
+      "email": "info@exploreihm.edu.np",
+      "phone": "+977-1-5-386362",
+      "updatedAt": "Sun Mar 05 2023 19:51:55 GMT+0545 (Nepal Time)",
+      "whatsApp": "+977-9851114537"
+    },
+    "ExploreIHM": {
+      "createdAt": "Sun Mar 26 2023 18:49:23 GMT+0545 (Nepal Time)",
+      "description": "<p><span style=\"color: rgb(80, 80, 80);\">Explore Institute of Hotel Management (EIHM) is located at Kalimati (Near KEC college &amp; T.B. Hospital). It is one of the leading private Government approved Institutes established in 2010 A.D. It has been serving hotel, tourism and hospitality industry for more than 15 years It imparts technical as well as academic knowledge at international standard in the field of hospitality industry. We are associated with reputed hotels, resorts, motels, restaurants, bars, travel agencies and other service industries throughout the nation and also tie up abroad; hence, the grooming of students at Explore Institute of Hotel Management Training Center takes place with global perspective.</span></p>",
+      "key": "",
+      "updatedAt": "Sun Mar 26 2023 18:49:23 GMT+0545 (Nepal Time)"
+    },
+    "Features": {
+      "-NPm7BnTNmaKiYABtN9o": {
+        "createdAt": "Sun Mar 05 2023 20:00:39 GMT+0545 (Nepal Time)",
+        "description": "<p>The course contents of the program include both theoretical and practical classes to acquire personal qualities and professional skills required to perform duties in the industry.</p>",
+        "feature_name": "JOB OPPORTUNITIES",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/test-26a9a.appspot.com/o/image%2FCourses%2Ffeatures1.png?alt=media&token=6c1c1f85-f1b9-4e02-ad01-d9c327c75972",
+        "key": "",
+        "keyword": "JOB OPPORTUNITIES",
+        "slug": "job-opportunities",
+        "updatedAt": "Sun Mar 05 2023 20:00:39 GMT+0545 (Nepal Time)"
+      },
+      "-NPm7IQPKjlYCue2fXIT": {
+        "createdAt": "March 05,2023",
+        "description": "<p>The course contents of the program include both theoretical and practical classes to acquire personal qualities and professional skills required to perform duties in the industry.</p>",
+        "feature_name": "PRACTICAL LEARNING",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/test-26a9a.appspot.com/o/image%2FCourses%2Ffeatures2.png?alt=media&token=fd22bfcb-8e39-4582-832a-ed3278a240b6",
+        "key": "-NPm7IQPKjlYCue2fXIT",
+        "keyword": "PRACTICAL LEARNING",
+        "slug": "practical-learning",
+        "updatedAt": "Tue Mar 21 2023 13:25:44 GMT+0545 (Nepal Time)"
+      },
+      "-NPm7P0vnFQotzhcYIPk": {
+        "createdAt": "March 05,2023",
+        "description": "<p>Vision of the Explore Hotel Management &amp; Tourism Training Center is to create efficient and qualified skilled manpower for the hotel, tourism and hospitality industry.</p>",
+        "feature_name": "QUALITY EDUCATION",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/test-26a9a.appspot.com/o/image%2FCourses%2Fquality-learning-features.jpg?alt=media&token=d61f136f-6f57-4a90-9d11-9d5ea47eae39",
+        "key": "-NPm7P0vnFQotzhcYIPk",
+        "keyword": "QUALITY EDUCATION",
+        "slug": "quality-education",
+        "updatedAt": "Tue Mar 21 2023 13:22:33 GMT+0545 (Nepal Time)"
+      },
+      "-NR25EsaBdY8nwjMlpJj": {
+        "createdAt": "Tue Mar 21 2023 13:21:22 GMT+0545 (Nepal Time)",
+        "description": "<p>The course contents of the program include both theoretical and practical classes to acquire personal qualities and professional skills required to perform duties in the industry.</p>",
+        "feature_name": "JOB OPPORTUNITIES",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/test-26a9a.appspot.com/o/image%2FCourses%2Fjob-opportunity-features.jpg?alt=media&token=15fb092a-78bd-449b-95f3-f60ded72ef5c",
+        "key": "",
+        "keyword": "JOB OPPORTUNITIES",
+        "slug": "job-opportunities",
+        "updatedAt": "Tue Mar 21 2023 13:21:22 GMT+0545 (Nepal Time)"
+      },
+      "-NR26O-whXGe1uMsIOmi": {
+        "createdAt": "Tue Mar 21 2023 13:26:21 GMT+0545 (Nepal Time)",
+        "description": "<p>The course contents of the program include both theoretical and practical classes to acquire personal qualities and professional skills required to perform duties in the industry.</p>",
+        "feature_name": "PRACTICAL LEARNING",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/test-26a9a.appspot.com/o/image%2FCourses%2Fpractical-learning-features.jpg?alt=media&token=ab94cd3b-46ae-4600-81ea-b7c89c146c48",
+        "key": "",
+        "keyword": "PRACTICAL LEARNING",
+        "slug": "practical-learning",
+        "updatedAt": "Tue Mar 21 2023 13:26:21 GMT+0545 (Nepal Time)"
+      },
+      "-NR26XqfA9rdo_q8aIB6": {
+        "createdAt": "Tue Mar 21 2023 13:27:02 GMT+0545 (Nepal Time)",
+        "description": "<p>Vision of the Explore Hotel Management &amp; Tourism Training Center is to create efficient and qualified skilled manpower for the hotel, tourism and hospitality industry.</p>",
+        "feature_name": "QUALITY EDUCATION",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/test-26a9a.appspot.com/o/image%2FCourses%2Fquality-learning-features.jpg?alt=media&token=aa30ac2a-a3d3-4dce-babb-2cef1fb43faf",
+        "key": "",
+        "keyword": "QUALITY EDUCATION",
+        "slug": "quality-education",
+        "updatedAt": "Tue Mar 21 2023 13:27:02 GMT+0545 (Nepal Time)"
+      }
+    },
+    "Hero": {
+      "-NPm4cyN8NCknuBwdrfJ": {
+        "createdAt": "March 05,2023",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/explore2-ae1eb.appspot.com/o/image%2FHero%2FheroImage.png?alt=media&token=d2aa483e-4850-498f-b98d-d1e421987ea6",
+        "key": "-NPm4cyN8NCknuBwdrfJ",
+        "slug": "study-for-your",
+        "subtitle": "Future Career",
+        "title": "Study For Your",
+        "updatedAt": "Thu Mar 30 2023 19:39:55 GMT+0545 (Nepal Time)"
+      },
+      "-NQV_pMarbw6K31Utp_F": {
+        "createdAt": "March 14,2023",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/explore2-ae1eb.appspot.com/o/image%2FHero%2Fbarista-ctevt.jpg?alt=media&token=c4611bf8-1e2d-42b0-8fe2-c99c611175eb",
+        "key": "-NQV_pMarbw6K31Utp_F",
+        "slug": "barista",
+        "subtitle": "Get Trained Get Hired",
+        "title": "BARISTA",
+        "updatedAt": "Thu Mar 30 2023 19:38:59 GMT+0545 (Nepal Time)"
+      },
+      "-NQV_vhPs4uOB_OawA5B": {
+        "createdAt": "March 14,2023",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/explore2-ae1eb.appspot.com/o/image%2FHero%2Fbanner-01.jpg?alt=media&token=517adf3a-95c2-4298-8b5f-ecd99e5a5ce1",
+        "key": "-NQV_vhPs4uOB_OawA5B",
+        "slug": "study-for-your",
+        "subtitle": "FUTURE CAREER",
+        "title": "STUDY FOR YOUR",
+        "updatedAt": "Thu Mar 30 2023 19:35:27 GMT+0545 (Nepal Time)"
+      },
+      "-NQVa0nfq3FdFkmqWV_9": {
+        "createdAt": "March 14,2023",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/explore2-ae1eb.appspot.com/o/image%2FHero%2Fbanner-02.jpg?alt=media&token=2b7e3fc0-13cd-4de1-acfd-46931b902749",
+        "key": "-NQVa0nfq3FdFkmqWV_9",
+        "slug": "eating-is-a-necessity,",
+        "subtitle": "BUT COOKING IS AN ART",
+        "title": "EATING IS A NECESSITY,",
+        "updatedAt": "Thu Mar 30 2023 19:36:20 GMT+0545 (Nepal Time)"
+      }
+    },
+    "OurStory": {
+      "createdAt": "Tue Mar 14 2023 20:22:37 GMT+0545 (Nepal Time)",
+      "description": "<p>Established in 2011 A.D., Explore has been continually serving and prospering the hotel, tourism and hospitality industry over the years in the scenario of Nepal. One of the leading private Institutions in Nepal, Explore has accomplished in flourishing the career opportunities of hundreds of enthusiastic candidates who pursued their career opportunity at Explore’s regard. Aimed to provide a fruitful career prospect to those who seek our assistance, we have a visionary to embellish our candidate’s career to a higher level and have succeeded in serving hundreds of our happy candidates who are more than happy at the institution’s generosity.</p>",
+      "updatedAt": "Tue Mar 14 2023 20:22:37 GMT+0545 (Nepal Time)"
+    },
+    "Partners": {
+      "-NPm8MKSZaXsDDkMMi6k": {
+        "createdAt": "March 05,2023",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/test-26a9a.appspot.com/o/image%2FPartners%2Fdinning-park-restaurant.jpg?alt=media&token=11394bba-06e3-48ba-89fa-81dae3f38a35",
+        "key": "-NPm8MKSZaXsDDkMMi6k",
+        "keyword": "Partner1 ",
+        "updatedAt": "Sun Mar 26 2023 15:47:58 GMT+0545 (Nepal Time)"
+      },
+      "-NPm8QK4vvxlUv4QIhNb": {
+        "createdAt": "March 05,2023",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/test-26a9a.appspot.com/o/image%2FPartners%2Fhyatt-hotel.jpg?alt=media&token=b4878562-03a4-4c17-a9bb-fa7d45e70186",
+        "key": "-NPm8QK4vvxlUv4QIhNb",
+        "keyword": "Partner1 ",
+        "updatedAt": "Sun Mar 26 2023 15:48:20 GMT+0545 (Nepal Time)"
+      },
+      "-NRSMyEaRUP17mIFCrKG": {
+        "createdAt": "Sun Mar 26 2023 15:48:56 GMT+0545 (Nepal Time)",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/test-26a9a.appspot.com/o/image%2FPartners%2Fradission-hotel.jpg?alt=media&token=bdb2a048-b3ca-4e08-8be5-2816d846b5f2",
+        "key": "",
+        "keyword": "Patner",
+        "updatedAt": "Sun Mar 26 2023 15:48:56 GMT+0545 (Nepal Time)"
+      },
+      "-NRSN1gRI5bj5-3rIcn6": {
+        "createdAt": "Sun Mar 26 2023 15:49:15 GMT+0545 (Nepal Time)",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/test-26a9a.appspot.com/o/image%2FPartners%2Fsoaltee-hotel.jpg?alt=media&token=7b2a0a30-a46b-4fa6-bc9d-35cea3f4cfb0",
+        "key": "",
+        "keyword": "Partner1",
+        "updatedAt": "Sun Mar 26 2023 15:49:15 GMT+0545 (Nepal Time)"
+      },
+      "-NRWlxuw0ZNZSu6xVqpL": {
+        "createdAt": "Mon Mar 27 2023 12:20:59 GMT+0545 (Nepal Time)",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/test-26a9a.appspot.com/o/image%2FPartners%2Fdg-hotel.jpg?alt=media&token=bc60ca91-15a0-4a4d-9f16-83be820ab4eb",
+        "key": "",
+        "keyword": "DG Hotel",
+        "updatedAt": "Mon Mar 27 2023 12:20:59 GMT+0545 (Nepal Time)"
+      }
+    },
+    "Testimonial": {
+      "-NPm7xpGDNax1HlCfSKu": {
+        "createdAt": "March 05,2023",
+        "description": "<p><span style=\"color: rgb(80, 80, 80);\">Explore Institute of Hotel Management is one of the best institutes where in you will be molded into Hospitality Professionals. The institute has a magnificent and enjoyable study environment. On top of that, its combined with wonderful and knowledgeable staff who is ready to help you at all times. The College is well structured and has all the facilities to train you practically. To name a few well designed restaurant, professional kitchens and massive front office. I was lucky enough to be a part of this school. Thank you for everything.</span></p>",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/test-26a9a.appspot.com/o/image%2FTestimonial%2Fperson.png?alt=media&token=48a014cd-c8d4-4420-b58c-6f44aa8cc31d",
+        "key": "-NPm7xpGDNax1HlCfSKu",
+        "keyword": "",
+        "rating": 5,
+        "slug": "pratik-adhikari",
+        "student_name": "Pratik Adhikari",
+        "updatedAt": "Tue Mar 21 2023 13:51:41 GMT+0545 (Nepal Time)"
+      },
+      "-NPm82OjjdsZ6RoMK8W_": {
+        "createdAt": "March 05,2023",
+        "description": "<p><span style=\"color: rgb(80, 80, 80);\">Never expected such a great initation step for the students and for the college promotions. Other college should also learn how much practical knowledge, crowd communication, team management is important. Salute to one came with such great idea.</span></p>",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/test-26a9a.appspot.com/o/image%2FTestimonial%2Fperson.png?alt=media&token=25b3661c-eef8-4f54-99e2-c99aaf54e8c9",
+        "key": "-NPm82OjjdsZ6RoMK8W_",
+        "keyword": "",
+        "rating": 3,
+        "slug": "sameer-basnet",
+        "student_name": "Sameer Basnet",
+        "updatedAt": "Tue Mar 21 2023 13:52:08 GMT+0545 (Nepal Time)"
+      },
+      "-NR2C-Y399oo4v8q9iaF": {
+        "createdAt": "Tue Mar 21 2023 13:50:54 GMT+0545 (Nepal Time)",
+        "description": "<p><span style=\"color: rgb(80, 80, 80);\">I am grateful for the need that Explore Institute of Hotel Management fulfilled in my life. The competency and the professionalism of the teachers were nothing less than outstanding. It allowed an easy, smooth, and rewarding transition from a novice to a professional in the Hospitality industry. I am pleased and proudly say that I belong to the EIHM clan.</span></p>",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/test-26a9a.appspot.com/o/image%2FTestimonial%2Ftestimonials-1.jpg?alt=media&token=138b286f-8fcf-434e-9629-fb20ccbb2015",
+        "key": "",
+        "keyword": "",
+        "rating": 4,
+        "slug": "rajib-shrestha",
+        "student_name": "Rajib Shrestha",
+        "updatedAt": "Tue Mar 21 2023 13:50:54 GMT+0545 (Nepal Time)"
+      },
+      "-NR2CQ82hc4mWsvsJZ3G": {
+        "createdAt": "Tue Mar 21 2023 13:52:43 GMT+0545 (Nepal Time)",
+        "description": "<p><span style=\"color: rgb(80, 80, 80);\">Never expected such a great initation step for the students and for the college promotions. Other college should also learn how much practical knowledge, crowd communication, team management is important. Salute to one came with such great idea.</span></p>",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/test-26a9a.appspot.com/o/image%2FTestimonial%2Ftesti-2.jpg?alt=media&token=55e8fd82-e308-44b4-88ae-c10a21f20677",
+        "key": "",
+        "keyword": "",
+        "rating": "",
+        "slug": "pratikshya-adhikari",
+        "student_name": "Pratikshya Adhikari",
+        "updatedAt": "Tue Mar 21 2023 13:52:43 GMT+0545 (Nepal Time)"
+      }
+    }
+  }
+}
