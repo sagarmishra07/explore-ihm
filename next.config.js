@@ -6,8 +6,7 @@ const withTM = require('next-transpile-modules')([
 ]);
 
 const nextConfig = {
-    reactStrictMode: true,
-    trailingSlash: false,
+    reactStrictMode: false,
     images: {
         dangerouslyAllowSVG: true,
         domains: [
@@ -17,11 +16,7 @@ const nextConfig = {
         unoptimized: true
     },
     enableSvg: true,
-    exportPathMap: async function (defaultPathMap, { dev, dir, outDir, distDir, buildId }) {
-        return {
-            '/': { page: '/' },
-        };
-    },
+   
 }
 
 module.exports = withTM(nextConfig);
