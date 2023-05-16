@@ -8,7 +8,6 @@ import {useEffect, useState} from "react";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import "@fontsource/roboto";
-import Loading from "@/components/common/Loading";
 
 export default function App({Component, pageProps}: any) {
     const Layout = Component.Layout || DefaultLayout;
@@ -27,8 +26,7 @@ export default function App({Component, pageProps}: any) {
 
     return (
         <>
-            {!loading ? (
-                <>
+           
                     <Head>
                         <meta charSet="utf-8"/>
                         <meta httpEquiv="X-UA-Compatible" content="IE=edge"/>
@@ -55,9 +53,7 @@ export default function App({Component, pageProps}: any) {
                         </MainTheme>
                     </Provider>
                 </>
-            ) : (
-                <Loading/>
-            )}
-        </>
+           
+
     );
 }
