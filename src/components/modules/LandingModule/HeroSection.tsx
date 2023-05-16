@@ -25,7 +25,6 @@ const HeroSection = (props: any) => {
             <Image
               src={val?.imageUrl}
               alt={val?.title}
-              fill
               className={"opacity-80 object-cover"}
             />
             <article className="absolute h-full w-full grid place-content-center gap-5 ">
