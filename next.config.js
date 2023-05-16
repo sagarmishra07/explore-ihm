@@ -7,7 +7,7 @@ const withTM = require('next-transpile-modules')([
 
 const nextConfig = {
     reactStrictMode: true,
-    trailingSlash: true,
+    trailingSlash: false,
     images: {
         dangerouslyAllowSVG: true,
         domains: [
